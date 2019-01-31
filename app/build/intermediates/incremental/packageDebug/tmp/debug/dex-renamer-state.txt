@@ -1,0 +1,4 @@
+#Wed Aug 29 21:03:03 BDT 2018
+base.0=C\:\\Users\\Namikaze\\AndroidStudioProjects\\BloodDonate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

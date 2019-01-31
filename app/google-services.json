@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895737893111",
+    "firebase_url": "https://blooddonation-38793.firebaseio.com",
+    "project_id": "blooddonation-38793",
+    "storage_bucket": "blooddonation-38793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895737893111:android:997b51174a02e158",
+        "android_client_info": {
+          "package_name": "com.example.namikaze.blooddonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895737893111-q4cs48htri12amvgmcnrj00qi69vu88s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCHkfSBliWx2Ihd9PEIk4zlOxaPbGaxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
